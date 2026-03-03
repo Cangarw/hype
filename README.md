@@ -13,7 +13,6 @@ For smaller instances the local timeline is rather empty. This is why trends sim
 Deploy with docker-compose
 
 ```yaml
-version: "3"
 services:
   hype:
     image: valentinriess/hype:latest
